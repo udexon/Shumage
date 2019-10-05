@@ -1,10 +1,12 @@
-# Shumage
+# 数码阁 Shumage
+
 数码阁 Project Shumage: A Next Generation Code Sharing Platform
 
 德善堂 数码阁
+
 数码阁： 新一代的源码共享平台
 
-Phos 佛光诀
+ΦΩ∑ Phos 佛光诀
 
 
 Project Shumage: A Next Generation Code Sharing Platform
