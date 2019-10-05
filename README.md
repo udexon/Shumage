@@ -10,17 +10,17 @@
 
 Project Shumage: A Next Generation Code Sharing Platform
 
-简介
+1. 简介
 
-:: Linux and GitHub
+2. :: Linux and GitHub
 
-To achieve this, nothing short of a universal programming language is needed. It turns out that much of the solution has existed for a long time, but has been overlooked.
+3. To achieve this, nothing short of a universal programming language is needed. It turns out that much of the solution has existed for a long time, but has been overlooked. 5gl.epizy.com demo
 
-安卓已经走到尽头， 瓶颈在编程工具， 解方是 图论 图论道。
+4. 安卓已经走到尽头， 瓶颈在编程工具， 解方是 图论 图论道。
 
-谁的人工智能？ 无为无极智能
+5. 谁的人工智能？ 无为无极智能
 
-长期目标效应： 区块币普及 分散式软件服务 淘汰美国集中式网路公司
+6. 长期目标效应： 区块币普及 分散式软件服务 淘汰美国集中式网路公司
 
 
 简介
