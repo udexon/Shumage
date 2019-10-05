@@ -43,6 +43,8 @@ Underlying Shumage are two novel technical innovations:
 
 -- Datong Token, a public key encryption infrastructure for anonymous messaging and financial transactions
 
+https://github.com/udexon/DatongToken
+
 双语创造 语境 思绪差异
 
 作为一名马来西亚华人， 七十年代出生， 九十年代在英国留学， 能够体会双语创作语境思绪的差异。  
