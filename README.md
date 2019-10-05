@@ -20,6 +20,8 @@ Project Shumage: A Next Generation Code Sharing Platform
 
 5. 谁的人工智能？ 无为无极智能
 
+名齐牛爱 再造钱华 华人学术大师 数学 编程 大师 数码大师
+
 6. 长期目标效应： 区块币普及 分散式软件服务 淘汰美国集中式网路公司
 
 
