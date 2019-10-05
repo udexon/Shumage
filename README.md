@@ -8,8 +8,22 @@
 
 ΦΩ∑ Phos 佛光诀
 
-
 Project Shumage: A Next Generation Code Sharing Platform
+
+简介
+
+:: Linux and GitHub
+
+To achieve this, nothing short of a universal programming language is needed. It turns out that much of the solution has existed for a long time, but has been overlooked.
+
+安卓已经走到尽头， 瓶颈在编程工具， 解方是 图论 图论道。
+
+谁的人工智能？ 无为无极智能
+
+长期目标效应： 区块币普及 分散式软件服务 淘汰美国集中式网路公司
+
+
+简介
 
 “数码阁” 项目成立的目的， 是要打造一个新式的，可以分享一行源码并收费(或选择不收费)的源码分享平台。 而且， 数码阁集资的方法， 有赖于参与者贡献的源码， 实现分摊投资者注入的资金的算法。
 
