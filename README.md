@@ -63,6 +63,8 @@ To achieve this, nothing short of a universal programming language is needed. It
 
 The percentages calculated using Shumage may be used as a reference only as programmers or their agent may impose an agent fees directly to investors they introduce, just like any other business deals. 
 
+长期目标效应： 区块币普及 分散式软件服务 淘汰美国集中式网路公司
+
 
 https://mp.weixin.qq.com/s/hbjRBB_Zp6D4ky-Do_K5Ow?fbclid=IwAR35f5lYZB2xXLrh6PHSZPcx7LDkKDwebPSa6Ya1EmNbtwdQ9WRcfBDaksE
 
