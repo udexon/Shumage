@@ -16,6 +16,8 @@ Project Shumage: A Next Generation Code Sharing Platform
 
 3. To achieve this, nothing short of a universal programming language is needed. It turns out that much of the solution has existed for a long time, but has been overlooked. 5gl.epizy.com demo
 
+http://5gl.epizy.com/nsm/fgl.html?i=1
+
 4. 安卓已经走到尽头， 瓶颈在编程工具， 解方是 图论 图论道。
 
 5. 下一轮的阶级斗争 国内外的社会主义运动
