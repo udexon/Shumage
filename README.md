@@ -64,9 +64,13 @@ Torvalds 开发 Linux 的同时， Richard Stallman 也成立了 Free Software F
 
 http://5gl.epizy.com/nsm/fgl.html?i=1
 
+Phos 取自圣经 “γενηθήτω φῶς (genēthētō phōs)” 希腊文小写 φῶς 大写 ΦΩ∑， 拉丁文 fiat lux， 英文 Let there be light， 意为 “光初现”。 Phos 与 Forth 谐音， 代表 Forth 的升级版， 故中译 “万弗式”，“万“ 也代表 弗式 升级为通译各种程序语言的 “万能代码” 。
+
 万： 道生一 三生万物
 
  ΦΩ∑ 佛光诀
+ 
+ γενηθήτω φῶς (genēthētō phōs) and
 
 Shumage, literally "digital library", is a next generation code sharing platform, which allows live executable code to be shared globally, down to a single line of source code, and users can be charged accordingly, or use the code for free, depending on the choices of the code owner. An innovation of Shumage lies in the fund raising stage, where the rewards to individual coders will be based on the fund management module to be coded by the coders themselves. 
 
