@@ -28,6 +28,17 @@ http://5gl.epizy.com/nsm/fgl.html?i=1
 
 6. 长期目标效应： 区块币普及 分散式软件服务 淘汰美国集中式网路公司
 
+Table of Contents
+
+数码阁 名字典故 新民学校 北大图书馆管理员 毛泽东
+
+Phos 佛光诀
+
+超英赶美 军事机器人 Boston Dynamics
+
+佛光诀统一编程数学， 加速大量培训新一代 “编程数学大师”。
+
+
 
 简介
 
