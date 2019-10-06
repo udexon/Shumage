@@ -60,9 +60,11 @@ Torvalds 开发 Linux 的同时， Richard Stallman 也成立了 Free Software F
 
 网上已经有很多 Forth 的资源， 也有台湾弗式协会的资源， 由于年代久远， 年轻的程序员们可能感觉格格不入。 欢迎各位读者留言询问。
 
-以下是本人制作的一个简单教程， 介绍由 Forth 延伸出来的 Phos 程序语言：
+以下是本人制作的一个简单教程， 介绍由 Forth 延伸出来的 Phos “万弗式” 程序语言：
 
 http://5gl.epizy.com/nsm/fgl.html?i=1
+
+万： 道生一 三生万物
 
  ΦΩ∑ 佛光诀
 
