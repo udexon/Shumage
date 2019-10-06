@@ -46,7 +46,7 @@ Phos 佛光诀
 
 写这篇文章时， 特朗普的 “中美贸易战”， 方兴未艾。 本文涉及的图论算法， 可能是当前科技战中最重要的技术之一。 是非对错， 信或不信， 本文的图论算法， 提出了一个使用计算机自动进行推理的模式， 包括 “本文涉及的图论算法， 可能是当前科技战中最重要的技术之一” 这句话本身。
 
-即便不牵扯上投资和国际形式， 本文将对一向深奥的图论及相关算法， 进行深入浅出的介绍， 可以惠及由中学到大学研究生等级的各位师生。
+即便不牵扯上投资和国际形式， 本文将对一向深奥的图论及相关算法， 进行深入浅出的介绍， 可以惠及由中学到大学研究生等级的各级师生。
 
 
 Shumage, literally "digital library", is a next generation code sharing platform, which allows live executable code to be shared globally, down to a single line of source code, and users can be charged accordingly, or use the code for free, depending on the choices of the code owner. An innovation of Shumage lies in the fund raising stage, where the rewards to individual coders will be based on the fund management module to be coded by the coders themselves. 
