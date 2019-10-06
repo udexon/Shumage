@@ -48,6 +48,12 @@ Phos 佛光诀
 
 即便不牵扯上投资和国际形式， 本文将对一向深奥的图论及相关算法， 进行深入浅出的介绍， 可以惠及由中学到大学研究生等级的各级师生。
 
+今天几乎是人手一机的安卓手机， 其背后是 1990 年代一个叫 Linus Torvalds 的芬兰大学生， 一个人编写的 Linux 内核衍生出来的伟大科技生态体系。  Torvalds 除了开发 Linux， github 也是他的得意佳作。 
+
+Torvalds 开发 Linux 的同时， Richard Stallman 也成立了 Free Software Foundation 自由软件基金会。 编译 Linux 最重要的工具 GNU C Compiler 就是 Stallman 开发的。 
+
+自由软件基金会的活动， 后来形成了开源软件运动。 在后来将近三十年的发展中， 开源软件运动， 培养了可以说是人类历史上最大批的无国界科技及编程人才， 以及成为当今亿万元级的科技大头发家的基础。
+
 
 Shumage, literally "digital library", is a next generation code sharing platform, which allows live executable code to be shared globally, down to a single line of source code, and users can be charged accordingly, or use the code for free, depending on the choices of the code owner. An innovation of Shumage lies in the fund raising stage, where the rewards to individual coders will be based on the fund management module to be coded by the coders themselves. 
 
