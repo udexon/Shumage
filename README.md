@@ -40,9 +40,11 @@ Phos 佛光诀
 
 
 
-简介
+### 简介 Introduction
 
 “数码阁” 项目成立的目的， 是要打造一个新式的，可以分享一行源码并收费(或选择不收费)的源码分享平台。 而且， 数码阁集资的方法， 有赖于参与者贡献的源码， 实现分摊投资者注入的资金的算法。
+
+写这篇文章时， 特朗普的 “中美贸易战”， 方兴未艾。 本文涉及的图论算法， 可能是当前科技战中最重要的技术之一。 是非对错， 信或不信， 本文的图论算法， 提出了一个使用计算机自动进行推理的模式， 包括 “本文涉及的图论算法， 可能是当前科技战中最重要的技术之一” 这句话本身。
 
 Shumage, literally "digital library", is a next generation code sharing platform, which allows live executable code to be shared globally, down to a single line of source code, and users can be charged accordingly, or use the code for free, depending on the choices of the code owner. An innovation of Shumage lies in the fund raising stage, where the rewards to individual coders will be based on the fund management module to be coded by the coders themselves. 
 
