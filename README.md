@@ -60,8 +60,11 @@ Torvalds 开发 Linux 的同时， Richard Stallman 也成立了 Free Software F
 
 网上已经有很多 Forth 的资源， 也有台湾弗式协会的资源， 由于年代久远， 年轻的程序员们可能感觉格格不入。 欢迎各位读者留言询问。
 
+以下是本人制作的一个简单教程， 介绍由 Forth 延伸出来的 Phos 程序语言：
+
 http://5gl.epizy.com/nsm/fgl.html?i=1
 
+ ΦΩ∑ 佛光诀
 
 Shumage, literally "digital library", is a next generation code sharing platform, which allows live executable code to be shared globally, down to a single line of source code, and users can be charged accordingly, or use the code for free, depending on the choices of the code owner. An innovation of Shumage lies in the fund raising stage, where the rewards to individual coders will be based on the fund management module to be coded by the coders themselves. 
 
