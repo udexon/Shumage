@@ -64,7 +64,9 @@ Torvalds 开发 Linux 的同时， Richard Stallman 也成立了 Free Software F
 
 http://5gl.epizy.com/nsm/fgl.html?i=1
 
-Phos 取自圣经 “γενηθήτω φῶς (genēthētō phōs)” 希腊文小写 φῶς 大写 ΦΩ∑， 拉丁文 fiat lux， 英文 Let there be light， 意为 “光初现”。 Phos 与 Forth 谐音， 代表 Forth 的升级版， 故中译 “万弗式”，“万“ 也代表 弗式 升级为通译各种程序语言的 “万能代码” 。
+Phos 取自基督教圣经旧约 Genesis 1:3 “γενηθήτω φῶς (genēthētō phōs)” 希腊文小写 φῶς 大写 ΦΩ∑， 拉丁文 fiat lux， 英文 Let there be light， 意为 “光初现”。 Phos 与 Forth 谐音， 代表 Forth 的升级版， 故中译 “万弗式”，“万“ 也代表 弗式 升级为通译各种程序语言的 “万能代码” 。
+
+https://en.wikipedia.org/wiki/Let_there_be_light
 
 万： 道生一 三生万物
 
