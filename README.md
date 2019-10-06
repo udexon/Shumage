@@ -58,6 +58,8 @@ Torvalds 开发 Linux 的同时， Richard Stallman 也成立了 Free Software F
 
 解决这个问题的方案， 牵涉到一个最古老的程序语言之一 Forth， 原意是 the Forth generation programming language 第四代程序语言， 台湾用户使用音译 “弗式”。
 
+网上已经有很多 Forth 的资源， 也有台湾弗式协会的资源， 由于年代久远， 年轻的程序员们可能感觉格格不入。 欢迎各位读者留言询问。
+
 http://5gl.epizy.com/nsm/fgl.html?i=1
 
 
