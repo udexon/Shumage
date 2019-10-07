@@ -84,6 +84,12 @@ https://zh.wikipedia.org/wiki/%E8%B0%83%E5%BA%A6%E5%9C%BA%E7%AE%97%E6%B3%95
 
 调度场算法的逆算法 (inverse) （inverse shunting yard algorithm (ISYA) 逆调度场算法）, 即把 逆波兰表示法 (3 4 +) 转换成 中缀表示法 (3 + 4)。
 
+这个看似简单 (trivial) 的 逆调度场算法， 到底如何成为一套能通译各种程序语言的 “万能代码” 呢？
+
+http://5gl.epizy.com/nsm/fgl.html?i=1
+
+如以上网页所示范， 逆调度场算法 可以在 JavaScript 和 PHP 的主程序语言 (host programming language) 实现 (implemented)， 实现 逆调度场算法 的 JavaScript 源码可以在所有的浏览器里打开。 理论上， 逆调度场算法可以在所有已知的程序主程序语言里实现， 目前缺乏的只是一套抽象的理论。 逆调度场算法 所实现的 “客程序语言”， 就是包括新旧弗式语言在内的逆波兰表示法语种。
+
 
 万： 道生一 三生万物
 
