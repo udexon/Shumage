@@ -74,6 +74,16 @@ https://en.wikipedia.org/wiki/Let_there_be_light
 
 “万能代码” 像是一个科幻故事的情节， 在计算机短暂的历史里， 或许有人提过， 但也还没有实现过。
 
+新弗式的万能代码功能， 理论基础是计算机祖师级大神 Dijkstra 的 shunting yard algorithm， 中文翻译为 “调度场算法“。 
+
+https://en.wikipedia.org/wiki/Shunting-yard_algorithm
+
+https://zh.wikipedia.org/wiki/%E8%B0%83%E5%BA%A6%E5%9C%BA%E7%AE%97%E6%B3%95
+
+调度场算法把 中缀表示法 (3 + 4) 转换成 逆波兰表示法 (3 4 +)。  
+
+调度场算法的逆算法 (inverse) （inverse shunting yard algorithm (ISYA) 逆调度场算法）, 即把 逆波兰表示法 (3 4 +) 转换成 中缀表示法 (3 + 4)。
+
 
 万： 道生一 三生万物
 
