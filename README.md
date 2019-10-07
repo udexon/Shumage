@@ -88,8 +88,9 @@ https://zh.wikipedia.org/wiki/%E8%B0%83%E5%BA%A6%E5%9C%BA%E7%AE%97%E6%B3%95
 
 http://5gl.epizy.com/nsm/fgl.html?i=1
 
-如以上网页所示范， 逆调度场算法 可以在 JavaScript 和 PHP 的主程序语言 (host programming language) 实现 (implemented)， 实现 逆调度场算法 的 JavaScript 源码可以在所有的浏览器里打开。 理论上， 逆调度场算法可以在所有已知的程序主程序语言里实现， 目前缺乏的只是一套抽象的理论。 逆调度场算法 所实现的 “客程序语言”， 就是包括新旧弗式语言在内的逆波兰表示法语种。
+如以上网页所示范， 逆调度场算法 可以在 JavaScript 和 PHP 的主程序语言 (host programming language) 实现 (implemented)， 实现 逆调度场算法 的 JavaScript 源码可以在所有的浏览器里打开。 理论上， 逆调度场算法可以在所有已知的程序主程序语言里实现， 目前缺乏的只是一套抽象的理论。 逆调度场算法 所实现的 “客程序语言” (guest programming language)， 就是包括新旧弗式语言在内的逆波兰表示法语种 (reverse polish notation category programming languages) 。
 
+虽说科幻故事没有 ”万能代码“ 的先例， 在金庸武侠小说世界里， 有 ”无相神功”， 可以模仿天下一切武功。 新弗式的功能， 可以用 ”无相神功” 来比喻。
 
 万： 道生一 三生万物
 
