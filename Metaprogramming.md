@@ -1,9 +1,6 @@
-打造 Dijkstra、 Turing 级数的大师
-
-突破 Stack Computer comp.lang.forth 老前辈 资源
 
 
-Open Ended Homoiconic Document Model
+Open Ended Homoiconic Document Model and Metaprogramming
 
 在万能代码的基础上， 我们可以开发出一个 “无终结开放型文件模式”。 至今为止， 所有的计算机文件模式， 都是有始有终的。所谓  “无终结开放型文件模式”， 就是在原有的目录结构和文件里， 加入新弗式的指令， 可以代表程序员对现有文件的改动。
 
@@ -55,3 +52,10 @@ Phos command can be embedded as comments in any existing file or additional file
 Delta code is the basis of fees pay out. Conflict with free software licenses? Depends. Discuss several scenario.
 
 Use Android project to illustrate. Gradle is based on groovy, a JVM derived Language. 
+
+打造 Dijkstra、 Turing 级数的大师
+
+突破 Stack Computer 
+
+comp.lang.forth 老前辈 资源
+
