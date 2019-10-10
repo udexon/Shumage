@@ -10,6 +10,9 @@ OEHDOM, truth to be told, is simply a glorified "super-patch". However, several 
 
 OEHDOM and `patch` came from two different traditions that diverged in the 1970s, as the Forth programming language and Unix operating system grew into separate ecosystems. As programming language related tools in Unix such as lex and yacc blossomed into a multitude of programming languages, a poetic coincidence reminds human beings that nature has its own plan that is outside human control -- the Forth programming language, primarily based on the Reverse Polish Notation, turns out to be a solution to unify all known programming languages, whose growing number has caused diminishing returns in various aspects of software engineering.
 
+`patch` is programming language agnostic but has limited programmability. By extending `patch` functionalities using Reverse Polish Notation, full programmability can be achieved in the operations to modify pre-existing code repositories.
+
+
 The name OEHDOM refers to the following features:
 
 - "Open Ended": the "patch code" is applied at the end of a document or when a document is saved. As such, a document is never "completely closed".
@@ -17,7 +20,6 @@ The name OEHDOM refers to the following features:
 - "Homoiconic" refers to the capabilities of XRPN (Extended Reverse Polish Notation), the superset of Forth and related programming languages, which can programmatically process the XRPN code itself.
 
 
-`patch` is programming language agnostic but has limited programmability. By extending `patch` functionalities using Reverse Polish Notation, full programmability can be achieved in the operations to modify pre-existing code repositories.
 
 在万能代码的基础上， 我们可以开发出一个 “无终结开放型文件模式”。 至今为止， 所有的计算机文件模式， 都是有始有终的。所谓  “无终结开放型文件模式”， 就是在原有的目录结构和文件里， 加入新弗式的指令， 可以代表程序员对现有文件的改动。
 
