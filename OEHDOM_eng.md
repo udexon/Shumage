@@ -2,6 +2,14 @@
 
 Open Ended Homoiconic Document Model and Metaprogramming
 
+https://en.wikipedia.org/wiki/Patch_(Unix)
+
+- The computer tool patch is a Unix program that updates text files according to instructions contained in a separate file, called a patch file. The patch file (also called a patch for short) is a text file that consists of a list of differences and is produced by running the related diff program with the original and updated file as arguments. Updating files with patch is often referred to as applying the patch or simply patching the files.
+
+OEHDOM, truth to be told, is simply a glorified "super-patch". However, several decades have passed between the small step from the original patch and OEHDOM.
+
+
+
 在万能代码的基础上， 我们可以开发出一个 “无终结开放型文件模式”。 至今为止， 所有的计算机文件模式， 都是有始有终的。所谓  “无终结开放型文件模式”， 就是在原有的目录结构和文件里， 加入新弗式的指令， 可以代表程序员对现有文件的改动。
 
 我们改动的文件， 主要是编程项目里调适及源码文件。 许多编程项目的文件， 其繁冗复杂程度， 例如安卓应用项目， 编程项目的文件， 早已发展到超越人手调置的限度。新的工具和程序语言被开发来处理现有的项目文件， 把总体结构和文件简化了吗？ 还是更加繁复？我们要 如何一劳永逸的解决这个问题？
