@@ -14,7 +14,7 @@ The name OEHDOM refers to the following features:
 
 - "Open Ended": the "patch code" is applied at the end of a document or when a document is saved. As such, a document is never "completely closed".
 
-- "Homoiconic" refers to the capabilities of XRPN (Extended Reverse Polish Notation), the superset of Forth and related programming language, which can programmatically process the XRPN code itself.
+- "Homoiconic" refers to the capabilities of XRPN (Extended Reverse Polish Notation), the superset of Forth and related programming languages, which can programmatically process the XRPN code itself.
 
 
 `patch` is programming language agnostic but has limited programmability. By extending `patch` functionalities using Reverse Polish Notation, full programmability can be achieved in the operations to modify pre-existing code repositories.
