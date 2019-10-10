@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/Patch_(Unix)
 
 OEHDOM, truth to be told, is simply a glorified "super-patch". However, several decades have passed between the small step from the original patch and OEHDOM. And this "small step", is no less than a leap of faith, that would ultimately lead to human level artificial intelligence (HLAI) and technological singularity (TS).
 
+OEHDOM and patch came from two different traditions that diverged in the 1970s, as the Forth programming language and Unix operating system grew into separate ecosystems.
+
 
 
 在万能代码的基础上， 我们可以开发出一个 “无终结开放型文件模式”。 至今为止， 所有的计算机文件模式， 都是有始有终的。所谓  “无终结开放型文件模式”， 就是在原有的目录结构和文件里， 加入新弗式的指令， 可以代表程序员对现有文件的改动。
