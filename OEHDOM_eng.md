@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Patch_(Unix)
 
 - The computer tool patch is a Unix program that updates text files according to instructions contained in a separate file, called a patch file. The patch file (also called a patch for short) is a text file that consists of a list of differences and is produced by running the related diff program with the original and updated file as arguments. Updating files with patch is often referred to as applying the patch or simply patching the files.
 
-OEHDOM, truth to be told, is simply a glorified "super-patch". However, several decades have passed between the small step from the original patch and OEHDOM.
+OEHDOM, truth to be told, is simply a glorified "super-patch". However, several decades have passed between the small step from the original patch and OEHDOM. And this "small step", is no less than a leap of faith, that would ultimately lead to human level artificial intelligence (HLAI) and technological singularity (TS).
 
 
 
