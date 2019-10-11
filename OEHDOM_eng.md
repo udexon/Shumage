@@ -19,7 +19,7 @@ The name OEHDOM refers to the following features:
 
 - "Homoiconic" refers to the capabilities of XRPN (Extended Reverse Polish Notation), the superset of Forth and related programming languages, which can programmatically process the XRPN code itself.
 
-- We call this implementation of XRPN ["Phos" (Greek ΦΩ∑)](http://5gl.epizy.com/nsm/fgl.html) as it rhymes with Forth and for its fame from the Greek Bible verse "genethetho Phos", which translates to "fiat lux" in Latin or "let there be light" in English. 
+- We call this implementation of XRPN ["Phos" (Greek ΦΩ∑)](http://5gl.epizy.com/nsm/Phos.html) as it rhymes with Forth and for its fame from the Greek Bible verse "genethetho Phos", which translates to "fiat lux" in Latin or "let there be light" in English. 
 
 
 
