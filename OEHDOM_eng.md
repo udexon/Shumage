@@ -19,6 +19,8 @@ The name OEHDOM refers to the following features:
 
 - "Homoiconic" refers to the capabilities of XRPN (Extended Reverse Polish Notation), the superset of Forth and related programming languages, which can programmatically process the XRPN code itself.
 
+- We call this implementation of XRPN ["Phos" (Greek ΦΩ∑)](http://5gl.epizy.com/nsm/fgl.html) as it rhymes with Forth and for its fame from the Greek Bible verse "genethetho Phos", which translates to "fiat lux" in Latin or "let there be light" in English. 
+
 
 
 在万能代码的基础上， 我们可以开发出一个 “无终结开放型文件模式”。 至今为止， 所有的计算机文件模式， 都是有始有终的。所谓  “无终结开放型文件模式”， 就是在原有的目录结构和文件里， 加入新弗式的指令， 可以代表程序员对现有文件的改动。
